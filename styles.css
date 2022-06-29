@@ -7417,6 +7417,10 @@ textarea.form-control-lg {
   margin-left: auto !important;
 }
 
+.about a {
+  color: inherit
+}
+
 .p-0 {
   padding: 0 !important;
 }
